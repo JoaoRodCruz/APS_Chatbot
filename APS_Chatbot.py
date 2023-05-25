@@ -1,7 +1,7 @@
 import telebot
 
 # Token do seu bot do Telegram
-TOKEN = 'seu-token-do-bot'
+TOKEN = 'SEU_TOKEN_DO_BOT'
 
 # Criando uma instância do bot
 bot = telebot.TeleBot(TOKEN)
